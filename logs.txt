@@ -1,0 +1,38 @@
+commit 46c9828151600f71b6c2f36af869e7c12c8997be (HEAD -> bug3, origin/master, 
+origin/bug3, master)
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 23:03:03 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 378f66b5c3ebe44538e12be603df5300bed63d8e
+Merge: 39ac495 58ad729
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 23:22:00 2023 +0200
+
+    Merge branch 'bug2'
+    Merging branch bug 2 to master
+
+commit 58ad72942c81b21f19d7157faf3c3cb3df1aa214 (origin/bug2, bug2)
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 23:01:39 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 39ac4959d893a85144c83b0e2a0adcb9802ddd26 (origin/bug1, bug1)
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 22:44:45 2023 +0200
+
+    Fix wrong loop for reading
+
+commit f5f8c6bfde2ddf923bbf30d9d37a97f112a14ae5
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:04:12 2023 +0200
+
+    Add java class
+
+commit ac56163b1707f2cbed87c3ab631d78a0aaf645ad
+Author: daresekulovski <darko.sekulovski@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:00:40 2023 +0200
+
+    Initial commit
